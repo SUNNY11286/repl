@@ -1,6 +1,6 @@
-# repl
+# Simple linear Regression
 codes on replit.
-simple linear regression example:
+\nSimple linear regression example:
 1. spring behavior
 2. employee salary
 ..
